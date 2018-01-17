@@ -13,6 +13,4 @@ is used to create the website from the class located in *media.py* and the insta
 
 ## Operating Instructions
 
-To run this program ensure all files are unzipped/downloaded
-
-and in the same folder (titled "Movie_Website". Then run the code within "media_center".
+To run this program ensure all files are unzipped/downloaded and in the same folder (titled "Movie_Website"). Then run the code within "media_center".
